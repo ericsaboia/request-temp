@@ -1,0 +1,26 @@
+{
+  "name": "request-temp",
+  "description": "save files to local /tmp dir using request",
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {},
+  "peerDependencies": {
+    "request": "~2"
+  },
+  "devDependencies": {
+    "mocha": "",
+    "request": "~2.27.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ricardobeat/request-temp.git"
+  },
+  "author": "Ricardo Tomasi <ricardobeat@gmail.com> (http://ricardo.cc)",
+  "license": {
+    "type": "MIT",
+    "url": "http://ricardo.mit-license.org"
+  }
+}
